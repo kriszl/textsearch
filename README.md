@@ -7,6 +7,7 @@ This python code uses your terminal and
 The data is then processed by either pandas or the csv module depending on the user's command line
 arguments.  
 An example can be found in the __example__ folder.
+The script has about 7% inaccuracy according to the HP book analysis.
 
 ## Video Demo
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FWx8GL2Bg_4/0.jpg)](http://www.youtube.com/watch?v=FWx8GL2Bg_4)
